@@ -1,0 +1,27 @@
+{
+  "name": "com.adrianuspax.attributes",
+  "displayName": "ASPax Attributes",
+  "version": "2.0.1",
+  "unity": "2018.4",
+  "licence": "MIT",
+  "repository": {
+      "type": "git",
+      "url": "git+https://github.com/adrianuspax/Attributes.git"
+    },
+    "author": {
+    "name": "Adriano Paz",
+    "email": "contato@adrianopaz.com",
+    "url": "https://github.com/adrianuspax"
+  },
+  "description": "Attributes for Unity Inspector",
+  "category": "editor extensions",
+  "dependencies": {},
+  "samples": [
+    {
+      "displayName": "Demo Scene",
+      "description": "Demo Scene",
+      "path": "Runtime/Samples~/DemoScene/"
+    }
+  ],
+  "keywords": [ "attribute", "inspector", "editor", "unity" ]
+}
